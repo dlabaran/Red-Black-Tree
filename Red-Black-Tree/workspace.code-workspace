@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CS3-HW5"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
